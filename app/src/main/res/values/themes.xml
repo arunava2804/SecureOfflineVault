@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SecureVault" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/vault_accent</item>
+        <item name="android:windowBackground">@color/vault_bg</item>
+        <item name="android:statusBarColor">@color/vault_bg</item>
+        <item name="android:navigationBarColor">@color/vault_bg</item>
+    </style>
+</resources>

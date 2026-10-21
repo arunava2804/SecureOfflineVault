@@ -1,4 +1,4 @@
-﻿package com.arunava.securevault.model;
+package com.arunava.securevault.model;
 
 public class VaultCredential {
     private final long id;

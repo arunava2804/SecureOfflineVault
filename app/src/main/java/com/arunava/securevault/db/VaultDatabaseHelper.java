@@ -1,4 +1,4 @@
-﻿package com.arunava.securevault.db;
+package com.arunava.securevault.db;
 
 import android.content.ContentValues;
 import android.content.Context;

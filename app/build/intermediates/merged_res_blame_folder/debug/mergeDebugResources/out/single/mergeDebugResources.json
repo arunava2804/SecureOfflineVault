@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.arunava.securevault.app-debug-34:/layout_activity_vault.xml.flat",
+        "source": "com.arunava.securevault.app-main-36:/layout/activity_vault.xml"
+    },
+    {
+        "merged": "com.arunava.securevault.app-debug-34:/layout_item_vault_credential.xml.flat",
+        "source": "com.arunava.securevault.app-main-36:/layout/item_vault_credential.xml"
+    }
+]

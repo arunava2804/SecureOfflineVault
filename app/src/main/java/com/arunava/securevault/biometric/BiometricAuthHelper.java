@@ -1,4 +1,4 @@
-﻿package com.arunava.securevault.biometric;
+package com.arunava.securevault.biometric;
 
 import androidx.annotation.NonNull;
 import androidx.biometric.BiometricManager;

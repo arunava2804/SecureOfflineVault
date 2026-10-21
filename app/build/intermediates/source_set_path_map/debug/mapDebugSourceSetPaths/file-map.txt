@@ -1,0 +1,37 @@
+com.arunava.securevault.app-core-runtime-2.2.0-0 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\072b3c255af1154c1ec8dcd2120d6e06\workspace\transformed\core-runtime-2.2.0\res
+com.arunava.securevault.app-jetified-activity-1.8.0-1 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\0adf5d383202dca0953539e5a4fb6459\workspace\transformed\jetified-activity-1.8.0\res
+com.arunava.securevault.app-drawerlayout-1.1.1-2 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\0b433bbd9662142745cb3fd59b6658ce\workspace\transformed\drawerlayout-1.1.1\res
+com.arunava.securevault.app-lifecycle-livedata-core-2.8.0-3 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\0cecd441692e0d61cd54f18177f69d99\workspace\transformed\lifecycle-livedata-core-2.8.0\res
+com.arunava.securevault.app-lifecycle-livedata-2.8.0-4 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\1dd265100b0326edc257207c8dbfaea0\workspace\transformed\lifecycle-livedata-2.8.0\res
+com.arunava.securevault.app-constraintlayout-2.1.4-5 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\1f123c97cb1ae9e18f4ce6e15e1a3d2d\workspace\transformed\constraintlayout-2.1.4\res
+com.arunava.securevault.app-transition-1.5.0-6 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\20ce4e76c3d3ee21a4b2fe3f365afda1\workspace\transformed\transition-1.5.0\res
+com.arunava.securevault.app-jetified-profileinstaller-1.3.1-7 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\292868805447216eb251ca1daa049450\workspace\transformed\jetified-profileinstaller-1.3.1\res
+com.arunava.securevault.app-jetified-core-ktx-1.13.0-8 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\2c2b8f3c667198a28082bef7185846a4\workspace\transformed\jetified-core-ktx-1.13.0\res
+com.arunava.securevault.app-jetified-lifecycle-runtime-release-9 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\422992b9a23fbd4e037d613829a5a7f4\workspace\transformed\jetified-lifecycle-runtime-release\res
+com.arunava.securevault.app-jetified-lifecycle-process-2.8.0-10 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\48fe51eecb1107ab034fee6d90222ccf\workspace\transformed\jetified-lifecycle-process-2.8.0\res
+com.arunava.securevault.app-coordinatorlayout-1.1.0-11 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\4916eb4e14b9a62135f742bfffeb8b5f\workspace\transformed\coordinatorlayout-1.1.0\res
+com.arunava.securevault.app-jetified-emoji2-views-helper-1.2.0-12 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\5465c5320d760dacaa010236f1a285a5\workspace\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.arunava.securevault.app-jetified-viewpager2-1.1.0-beta02-13 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\6606ad3710bb4bcee6d238707ea4615f\workspace\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.arunava.securevault.app-jetified-appcompat-resources-1.6.1-14 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\6c85afb1c5a5a8520262d32bb22f2ef7\workspace\transformed\jetified-appcompat-resources-1.6.1\res
+com.arunava.securevault.app-jetified-savedstate-1.2.1-15 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\77e14119cab7f5d8c1df9d82571d9397\workspace\transformed\jetified-savedstate-1.2.1\res
+com.arunava.securevault.app-fragment-1.3.6-16 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\801ea8c52c7f3c46761fbeb846c63db1\workspace\transformed\fragment-1.3.6\res
+com.arunava.securevault.app-jetified-emoji2-1.2.0-17 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\88a4da92408ffcdcb63e6dcda2929144\workspace\transformed\jetified-emoji2-1.2.0\res
+com.arunava.securevault.app-jetified-startup-runtime-1.1.1-18 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\89dd6a54bbb0da6369132ab955f7cccf\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.arunava.securevault.app-jetified-lifecycle-viewmodel-savedstate-2.8.0-19 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\9ac66e058054a46a601b010760d816d9\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.0\res
+com.arunava.securevault.app-material-1.12.0-20 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\9ca02ca2982c60b1663982ee7949b7f8\workspace\transformed\material-1.12.0\res
+com.arunava.securevault.app-core-1.13.0-21 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\9dbe003f5f4ab559500255e35f99974e\workspace\transformed\core-1.13.0\res
+com.arunava.securevault.app-recyclerview-1.3.2-22 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\9df84d6af0a768e69d99cd1e68159dca\workspace\transformed\recyclerview-1.3.2\res
+com.arunava.securevault.app-jetified-lifecycle-viewmodel-release-23 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\a7cc9f8cc3553ec33d2682328f19fa3f\workspace\transformed\jetified-lifecycle-viewmodel-release\res
+com.arunava.securevault.app-jetified-lifecycle-livedata-core-ktx-2.8.0-24 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\b07ae120637fa8badfcb82b4f212a9c9\workspace\transformed\jetified-lifecycle-livedata-core-ktx-2.8.0\res
+com.arunava.securevault.app-jetified-customview-poolingcontainer-1.0.0-25 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\c7e0beb080a36d7e04991f1ad7171551\workspace\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.arunava.securevault.app-jetified-annotation-experimental-1.4.0-26 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\d0663ca35c9bba495fe5bf6b3bcc05a3\workspace\transformed\jetified-annotation-experimental-1.4.0\res
+com.arunava.securevault.app-appcompat-1.6.1-27 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\d0d6351b069b5bdd35a6f67a38069ec7\workspace\transformed\appcompat-1.6.1\res
+com.arunava.securevault.app-cardview-1.0.0-28 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\e1478ee979d8f002faadbb9fe7c43d95\workspace\transformed\cardview-1.0.0\res
+com.arunava.securevault.app-biometric-1.1.0-29 C:\Users\HP ALL IN ONE\.gradle\caches\9.3.0\transforms\f227c0d43be9aa1fb2319953efb1ab0c\workspace\transformed\biometric-1.1.0\res
+com.arunava.securevault.app-pngs-30 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\build\generated\res\pngs\debug
+com.arunava.securevault.app-resValues-31 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\build\generated\res\resValues\debug
+com.arunava.securevault.app-packageDebugResources-32 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.arunava.securevault.app-packageDebugResources-33 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.arunava.securevault.app-debug-34 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.arunava.securevault.app-debug-35 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\src\debug\res
+com.arunava.securevault.app-main-36 C:\Users\HP ALL IN ONE\Android Studio Projects\AruAndroid\SecureOfflineVault\app\src\main\res

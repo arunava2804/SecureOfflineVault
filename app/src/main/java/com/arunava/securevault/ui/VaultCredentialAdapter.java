@@ -1,4 +1,4 @@
-﻿package com.arunava.securevault.ui;
+package com.arunava.securevault.ui;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;

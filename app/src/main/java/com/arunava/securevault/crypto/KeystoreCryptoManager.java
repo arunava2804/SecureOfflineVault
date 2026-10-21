@@ -1,4 +1,4 @@
-﻿package com.arunava.securevault.crypto;
+package com.arunava.securevault.crypto;
 
 import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyProperties;

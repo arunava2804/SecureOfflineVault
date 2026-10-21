@@ -1,4 +1,4 @@
-﻿package com.arunava.securevault.viewmodel;
+package com.arunava.securevault.viewmodel;
 
 import android.app.Application;
 import androidx.annotation.NonNull;

@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color danger_red
+color text_dim
+color text_light
+color vault_accent
+color vault_bg
+color vault_card
+color vault_card_stroke
+id btnAddCredential
+id btnDelete
+id btnLockVault
+id btnToggleSecret
+id btnUnlockVault
+id layoutLockedState
+id layoutUnlockedState
+id rvVaultCredentials
+id tvAccount
+id tvCategory
+id tvSecretValue
+id tvTitle
+layout activity_vault
+layout item_vault_credential
+string app_name
+string btn_add_credential
+string btn_unlock
+string vault_locked_desc
+string vault_locked_title
+style Theme.SecureVault

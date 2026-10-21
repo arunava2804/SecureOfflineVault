@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="danger_red">#FF5252</color>
+    <color name="text_dim">#94A3B8</color>
+    <color name="text_light">#F4F6F9</color>
+    <color name="vault_accent">#00E5FF</color>
+    <color name="vault_bg">#121824</color>
+    <color name="vault_card">#1E2638</color>
+    <color name="vault_card_stroke">#2E3A52</color>
+    <string name="app_name">Secure Dev Vault</string>
+    <string name="btn_add_credential">+ Add Secure Credential</string>
+    <string name="btn_unlock">Unlock with Biometrics</string>
+    <string name="vault_locked_desc">Authenticate with your fingerprint, face, or device PIN to access encrypted credentials.</string>
+    <string name="vault_locked_title">Vault Locked</string>
+    <style name="Theme.SecureVault" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/vault_accent</item>
+        <item name="android:windowBackground">@color/vault_bg</item>
+        <item name="android:statusBarColor">@color/vault_bg</item>
+        <item name="android:navigationBarColor">@color/vault_bg</item>
+    </style>
+</resources>
